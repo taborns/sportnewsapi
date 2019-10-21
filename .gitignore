@@ -1,0 +1,4 @@
+*.pyc 
+media/thumbs/*
+media/logos/*
+db.sqli*
